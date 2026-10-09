@@ -26,7 +26,7 @@ The three approaches studied were:
 ### Participants and sample composition
 The study involved **59 participants** (students and professionals) at Tecnológico de Monterrey from a broad set of non-computing disciplinary backgrounds. 
 
-![Sample composition — role × gender](images/IMAGEN1.jpg)
+![Sample composition — role × gender](images/fig1.eps)
 
 *Figure 1 — Current role by gender.*
 
